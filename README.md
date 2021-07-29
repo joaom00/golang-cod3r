@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/joaom00/golang-cod3r/master/.github/golang.svg"/>
+    <img src="https://raw.githubusercontent.com/joaom00/golang-cod3r/master/.github/golang.svg" />
 </div>
 
 <h2 align="center">
