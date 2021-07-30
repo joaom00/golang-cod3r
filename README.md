@@ -107,3 +107,9 @@
 - [x] Pacotes Visibilidade [*Código da Aula*](https://github/joaom00/golang-cod3r/blob/main/pacote/reta/main.go)
 - [x] Criando um Pacote Reutilizável
 - [x] Criando & Instalando um Pacote do Github
+
+## Concorrência
+
+- [x] Conhecendo a Goroutine [*Código da Aula*](https://github.com/joaom00/golang-cod3r/blob/main/concorrencia/goroutine/goroutine.go)
+- [x] Conhecendo o Channel [*Código da Aula*](https://github.com/joaom00/golang-cod3r/blob/main/concorrencia/channel1/channel.go)
+- [x] Usando Goroutine e Channel [*Código da Aula*](https://github.com/joaom00/golang-cod3r/blob/main/concorrencia/channel2/channel.go)
