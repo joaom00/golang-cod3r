@@ -111,3 +111,9 @@
 - [x] Padrão de Concorrência Multiplexador [*Código da Aula*](https://github.com/joaom00/golang-cod3r/blob/main/concorrencia/multiplexar/multiplexar.go)
 - [x] Estrutura de Controle Select [*Código da Aula*](https://github.com/joaom00/golang-cod3r/blob/main/concorrencia/select/select.go)
 - [x] Multiplexador com Select [*Código da Aula*](https://github.com/joaom00/golang-cod3r/blob/main/concorrencia/multiplexar2/multiplexar.go)
+
+## Testes
+- [x] Testes Unitário Básico [*Código da Aula*](https://github.com/joaom00/golang-cod3r/blob/main/testes/matematica/matematica_test.go)
+- [x] Criando Dataset para os Testes [*Código da Aula*](https://github.com/joaom00/golang-cod3r/blob/main/testes/tabela/strings_test.go)
+- [x] Tipo de Arquitetura e os Testes[*Código da Aula*](https://github.com/joaom00/golang-cod3r/blob/main/testes/arquitetura/arquitetura_test.go)
+- [x] Gerando Relatório de Cobertura de Testes
